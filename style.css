@@ -1,0 +1,61 @@
+
+Conversation ouverte. 1 message non lu.
+
+Aller au contenu
+Utiliser Gmail avec un lecteur d'écran
+1 sur 388
+(aucun objet)
+Boîte de réception
+
+Abdoulaye Djitteye
+18:22 (il y a 1 minute)
+À moi
+
+   
+Traduire le message
+Désactiver pour : anglais
+body{
+    background-color: yellow;
+
+}
+.container{
+    position: relative;
+    margin: auto;
+    max-width: 810px;
+     min-height: 900px;
+    background: #fff;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    
+
+}
+.left-side{
+    position: relative;
+    background: #53B692;;
+    padding: 0px;
+    color: white;
+    max-width: 270px;
+
+}
+.right-side{
+    position: relative;
+    background: white;
+    padding: 0px;
+}
+#nom{
+  font-size: 40px;
+  padding-left: 20px;
+}
+ 
+}
+p{
+    margin: 18px;
+}
+.pgauche, nom{
+    padding: 20px;
+}
+h3{
+    background-color: #45997B;
+    width: 270px;
+    padding: 20px;
+}
